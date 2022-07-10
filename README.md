@@ -1,2 +1,2 @@
 # entity-waterfilling-re-enabled
-Allows House Waterfilling To Function Again.
+Allows house waterfilling to function alongside Space Exploration again.
