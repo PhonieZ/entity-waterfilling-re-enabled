@@ -1,2 +1,3 @@
 # House Waterfilling Fix 
-Allows house waterfilling to function alongside Space Exploration again, just install this alongside any waterfill mod and Space Exploration.
+Refer to mod page for description: 
+https://mods.factorio.com/mod/entity-waterfilling-re-enabled
